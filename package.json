@@ -11,6 +11,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-     "url": "https://github.com/arieu/boilerplate-node-server.git"
-  }
+    "url": "git+https://github.com/arieu/boilerplate-node-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arieu/boilerplate-node-server/issues"
+  },
+  "homepage": "https://github.com/arieu/boilerplate-node-server#readme"
 }
