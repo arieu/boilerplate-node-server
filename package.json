@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/arieu/boilerplate-node-server/issues"
   },
-  "homepage": "https://github.com/arieu/boilerplate-node-server#readme"
+  "homepage": "https://github.com/arieu/boilerplate-node-server#readme",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
 }

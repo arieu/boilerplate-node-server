@@ -5,3 +5,6 @@
 * Body-Parser
 * Cookie-Parser
 
+## View Templating
+
+* Handlebars
