@@ -1,0 +1,16 @@
+{
+  "name": "boilerplate-node-server",
+  "version": "1.0.0",
+  "description": "Common nodejs server setup",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Ochoa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+     "url": "https://github.com/arieu/boilerplate-node-server.git"
+  }
+}
