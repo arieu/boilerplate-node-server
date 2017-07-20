@@ -1,6 +1,6 @@
 # Boilerplate Nodejs and Express Server
 
-# Middleware
+## Middleware
 
 * Body-Parser
 * Cookie-Parser
