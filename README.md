@@ -5,6 +5,13 @@
 * Body-Parser
 * Cookie-Parser
 
+### Logging
+
+* Morgan
+* Chalk
+
 ## View Templating
 
 * Handlebars
+
+## Editor and Linting

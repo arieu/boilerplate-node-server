@@ -4,7 +4,7 @@
   "description": "Common nodejs server setup",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Francisco Ochoa",
@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/arieu/boilerplate-node-server#readme",
   "dependencies": {
-    "chalk": "^2.0.1"
+    "body-parser": "^1.17.2",
+    "chalk": "^2.0.1",
+    "compression": "^1.7.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
   }
 }
